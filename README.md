@@ -79,8 +79,4 @@ The marking criteria reads as follows;
 
 ## Other Comments
 
-I enjoyed this task after completing Project 3 (which also included a map/leaflet componant. I completed Project 3 before starting this challenge, so having exposed myself to leaflet for a few weeks it made it a lot easier to complete this challenge.
-
-I feel a lot more confident with Javascript now, but still prefer Python...
-
-***Javascript hoo-rah...***
+I believe that completing th elearning on Supervised Machine Learning helped solidify my understanding of Unsupervised. Bring on the next challenge!
