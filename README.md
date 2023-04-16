@@ -20,6 +20,7 @@ N/A - All required libraries are referenced in the .ipynb file to ensure the cod
 ## Working Notes
 
 This challenge was good introduction to machine learning and some of the different ways we can utilise ML to assist with analysis. Understanding how to utilise K-Means and PCA was key to completing this week. This concept took a bit longer to sink in than some of the previous challenge, but I feel more comfortable with my understanding after completing this weeks challenge.
+
 ---
 
 ## Criteria
